@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WotC Emails</string>
+    <string name="player_s_name">Player\'s name</string>
+    <string name="player_s_email">Player\'s email</string>
+</resources>
